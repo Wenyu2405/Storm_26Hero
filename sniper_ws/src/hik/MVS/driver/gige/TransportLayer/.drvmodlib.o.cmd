@@ -1,0 +1,1 @@
+cmd_/data1/wuteng6/work/GigE_Linux/src/drvmodlib.o := ld -m elf_x86_64   -r -o /data1/wuteng6/work/GigE_Linux/src/drvmodlib.o /data1/wuteng6/work/GigE_Linux/src/MVGvspParse.o /data1/wuteng6/work/GigE_Linux/src/MVNetFilter.o ; scripts/mod/modpost /data1/wuteng6/work/GigE_Linux/src/drvmodlib.o

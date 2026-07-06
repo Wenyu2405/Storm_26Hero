@@ -1,0 +1,1 @@
+savedcmd_/opt/MVS/driver/pcie/TransportLayer/xof/xofframegrabber.o := ld -m elf_x86_64 -z noexecstack   -r -o /opt/MVS/driver/pcie/TransportLayer/xof/xofframegrabber.o @/opt/MVS/driver/pcie/TransportLayer/xof/xofframegrabber.mod 
